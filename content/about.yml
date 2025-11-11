@@ -1,27 +1,60 @@
 title: About Me
-description: Learn more about my journey as a Boston-based UX/UI Designer & Front-End Developer, my design philosophy, and my passion for crafting intuitive digital experiences.
+description: Learn more about my background as a full-stack developer, my approach to modern web engineering, and the values that guide my work.
+
 content: |
-  Hi, I'm **Emma Thompson**, a UX/UI Designer and Front-End Developer based right here in Boston. For the past six years, I've been immersed in the world of digital product creation, focusing on building experiences that are not just functional, but genuinely intuitive and engaging for users.
+  Hi, I’m **Thomas GRAND**, a Full-Stack Developer from Lyon with experience building modern web interfaces, workflow automation systems, and AI-assisted tools.  
+  I enjoy transforming complex requirements into clean, efficient and maintainable applications that scale well in real production environments.
 
-  My path started at **Boston University**, where I earned a degree in Interactive Design. It was there I discovered my dual passion for the visual language of design and the logical puzzle of code. Since then, I've honed my skills in both areas, believing that the best digital products are born from a deep understanding of both aesthetics and implementation.
+  My journey started with a strong foundation in engineering and technology, studying at **EPITECH Lyon**, followed by a full academic year at **Université Laval (Québec)**. Throughout my career, I've worked across multiple industries — tech consulting, R&D, pharmaceutical tooling, and IT — giving me a practical understanding of how digital systems operate in real organizations.
 
-  ### My Design Philosophy
+  ### What I Do
 
-  My design philosophy is rooted in **empathy** and **problem-solving**. I believe great design starts with understanding the 'why' – the user's needs, motivations, and pain points. I use research, iterative prototyping (often with tools like Figma), and user testing to ensure the solutions I build are truly effective.
+  I specialize in:
+  - **Front-end architecture** using Vue, Nuxt and modern TypeScript  
+  - **Automation & AI-assisted workflows** using n8n and custom agents  
+  - **Back-end development** with Node.js, PHP/Symfony, and internal tools  
+  - **Technical refactoring & clean code practices**  
+  - **Problem-solving at scale**, especially in large teams and complex environments  
 
-  I strive to create interfaces that feel effortless, where functionality and beauty work hand-in-hand. Whether I'm crafting pixel-perfect UIs or writing clean Vue.js/Nuxt.js code, my focus is always on creating value for the end-user.
+  I value clarity, structure and reliability. I enjoy designing systems that feel simple on the surface, but are built on solid technical foundations.
 
-  ### What Drives Me
+  ### Professional Background
 
-  What keeps me excited about this work is the constant learning and the challenge of translating complex ideas into simple, elegant solutions. There's nothing more rewarding than seeing a design come to life and knowing it's making someone's digital interaction easier or more enjoyable.
+  At **Steamulo**, I work as a full-stack developer on major public platforms and internal automation systems.  
+  My responsibilities include:
+  - Leading front-end refactors (INPI — Guichet Unique)  
+  - Migrating large Vue/Nuxt codebases (Team France Export)  
+  - Building AI assistants for operational teams  
+  - Designing automation pipelines integrated with Trello, Jira, Outlook, NetExplorer and other third-party tools  
 
-  ### Beyond the Screen
+  Before that, I worked at **AVA UX** on Unity-based 3D development and R&D prototypes, including real-time interaction systems and mesh rendering.
 
-  When I'm not designing or coding, you might find me exploring Boston's latest coffee shops, hiking nearby trails, or occasionally contributing to open-source projects.
+  I also gained strong engineering experience at **LASA** (WordPress maintenance & IT support) and **Skyepharma** (WinDev internal tools, maintenance, automation scripts).
 
-  Thanks for stopping by. Feel free to browse my [projects](/projects) or [get in touch](/#contact) if you'd like to collaborate!
+  ### Personal Projects
+
+  I’m the creator of **AngleGuessr** — an angle-estimation browser game available at  
+  **https://angleguessr.xyz**  
+
+  I frequently experiment with new technologies, AI workflows, and tools that improve developer experience.
+
+  ### Beyond Coding
+
+  Outside of development, I enjoy fitness, exploring digital creation, and working on personal side projects that let me test new ideas.
+
+  Thanks for visiting my portfolio. Feel free to reach out if you’d like to collaborate or discuss a project.
+
 images:
-  - src: https://images.unsplash.com/photo-1744877478622-a78c7a3336f6?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-    alt: My coffee workspace
-  - src: https://images.unsplash.com/photo-1744429523595-2c06b8611242?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-    alt: My trip to Tokyo
+  - src: https://images.unsplash.com/photo-1744877478622-a78c7a3336f6?q=80&w=1587&auto=format&fit=crop
+    alt: Workspace
+  - src: https://images.unsplash.com/photo-1744429523595-2c06b8611242?q=80&w=1587&auto=format&fit=crop
+    alt: Travel photo
+
+seo:
+  title: About — Thomas GRAND
+  description: Learn more about Thomas GRAND, a full-stack developer specializing in modern web engineering, automation and clean, maintainable digital solutions.
+
+navigation:
+  title: About
+  description: Who I am and how I work
+  icon: i-hugeicons-user

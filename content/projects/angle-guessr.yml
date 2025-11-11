@@ -1,0 +1,10 @@
+title: AngleGuessr — Technical Browser Game
+description: |
+  Built AngleGuessr, a fast-paced browser game that challenges users to estimate angles with precision.  
+  Developed the complete logic engine (angle generation, tolerance calculation, scoring), the state management system, and a fully client-side architecture optimized for responsiveness.  
+  Implemented a custom rendering pipeline using HTML Canvas for real-time visual feedback and smooth interaction loops.
+
+image: https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?auto=format&fit=crop&w=1470&q=80
+url: "https://angleguessr.xyz"
+tags: ["TypeScript", "Canvas", "Frontend Architecture", "Game Logic"]
+date: "2024"
